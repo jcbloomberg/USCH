@@ -1,0 +1,6 @@
+dash
+plotly
+blpapi
+arch
+pandas
+numpy
